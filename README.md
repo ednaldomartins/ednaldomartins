@@ -1,8 +1,8 @@
 ### Olá. Seja bem-vindo ao meu repositório 👋
 
-#### Sou formado em Ciência da Computação pela UFPB e atualmente sou desenvolvedor na Kamaleon TI.
+Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedor front-end (ReactJS) na Kamaleon TI. Também gosto de desenvolver apps nativos para Android, e lancei meu primeiro app na Play Store, o Libflix  https://play.google.com/store/apps/details?id=com.ednaldomartins.libflix.
 
-#### Linguagens, Frameworks e ferramentas:
+###### Linguagens, Frameworks e ferramentas:
 
 <table>
   <tbody>
@@ -26,6 +26,14 @@
     </tr> 
     <tr>
       <td width="25%" align="center">
+        <strong>Android</strong><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
+      </td>
+      <td width="25%" align="center">
+        <strong>ReactJS</strong><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="25%" align="center">
         <strong>PostgreSQL</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
@@ -33,31 +41,23 @@
         <strong>node.js</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
+    </tr>
+    <tr>
+      <td width="25%" align="center">
+        <strong>Spring</strong><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
       <td width="25%" align="center">
         <strong>Docker</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td> 
       <td width="25%" align="center">
-        <strong>Spring</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
-      </td> 
-    </tr>
-    <tr>
-      <td width="25%" align="center">
-        <strong>Android</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/android.svg">
-      </td>
-      <td width="25%" align="center">
-        <strong>ReactJS</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
+        <strong>Postman</strong><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
       <td width="25%" align="center">
         <strong>GitHub</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <strong>JSON</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/json.svg">
       </td>
    </tr>
   </tbody>
