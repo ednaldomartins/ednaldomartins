@@ -1,6 +1,6 @@
 ### Olá. Seja bem-vindo ao meu repositório 👋
 
-Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedor front-end (ReactJS) na Kamaleon TI. Também gosto de desenvolver apps nativos para Android, e lancei meu primeiro app na Play Store, o Libflix  https://play.google.com/store/apps/details?id=com.ednaldomartins.libflix.
+Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedor fullstack (ReactJS/Spring) na Kamaleon TI. Também sou desenvolver de apps nativos para Android, e lancei um app na Play Store que utiliza novos componentes de arquitetura Android e a API do TMDB. link: < https://play.google.com/store/apps/details?id=com.ednaldomartins.libflix >.
 
 ###### Linguagens, Frameworks e ferramentas:
 
@@ -20,12 +20,6 @@ Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedo
         <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
       <td width="25%" align="center">
-        <strong>Python</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr> 
-    <tr>
-      <td width="25%" align="center">
         <strong>Android</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/android-icon.svg">
       </td>
@@ -33,19 +27,15 @@ Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedo
         <strong>ReactJS</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
-      <td width="25%" align="center">
-        <strong>PostgreSQL</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/postgresql.svg">
-      </td>
-      <td width="25%" align="center">
-        <strong>node.js</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-    </tr>
+    </tr> 
     <tr>
       <td width="25%" align="center">
         <strong>Spring</strong><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/spring.svg">
+      </td>
+      <td width="25%" align="center">
+        <strong>node.js</strong><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
       </td>
       <td width="25%" align="center">
         <strong>Docker</strong><br>
@@ -56,8 +46,8 @@ Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedo
         <img height="64px" src="https://cdn.svgporn.com/logos/postman.svg">
       </td>
       <td width="25%" align="center">
-        <strong>GitHub</strong><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/github-icon.svg">
+        <strong>Selenium</strong><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/selenium.svg">
       </td>
    </tr>
   </tbody>
