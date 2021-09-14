@@ -1,7 +1,5 @@
 ### Olá. Seja bem-vindo ao meu repositório 👋
 
-Sou formado em Ciência da Computação pela UFPB, e atualmente sou desenvolvedor fullstack (ReactJS/Spring) na Kamaleon TI. Também sou desenvolver de apps nativos para Android, e lancei um app na Play Store que utiliza novos componentes de arquitetura Android e a API do TMDB. link: < https://play.google.com/store/apps/details?id=com.ednaldomartins.libflix >.
-
 ###### Linguagens, Frameworks e ferramentas:
 
 <table>
